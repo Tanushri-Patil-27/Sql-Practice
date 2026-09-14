@@ -13,7 +13,7 @@
 - Having
 
 ## Database Used:
-MySQL
+MYSQL
 
 ## Author:
 Tanushri Patil
